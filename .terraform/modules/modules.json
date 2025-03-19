@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"kubernetes_cluster","Source":"./modules/kubernetes","Dir":"modules/kubernetes"},{"Key":"monitoring","Source":"./modules/monitoring","Dir":"modules/monitoring"}]}
